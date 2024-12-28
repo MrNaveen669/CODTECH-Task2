@@ -25,12 +25,11 @@ Execute the script with the following syntax:
 bash
 python3 port_scanner.py <target> <start_port> <end_port>
 
-Example:
-python3 port_scanner.py 192.168.1.1 1 100
+
 # View the Output:
 The script will display a list of open ports, such as:
 
-Open Ports on 192.168.1.1:
+Open Ports on <Target IP>:
 
 Port 22 is open
 
