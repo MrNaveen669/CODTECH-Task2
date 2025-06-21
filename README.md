@@ -60,11 +60,11 @@ This Python-based **Open Port Scanner** helps security analysts and ethical hack
 bash
 Copy
 Edit
-[+] Scanning Target: 192.168.1.1
-[✓] Port 22 is open (SSH)
-[✓] Port 80 is open (HTTP)
-[✓] Port 443 is open (HTTPS)
-Scan complete.
+- [+] Scanning Target: 192.168.1.1
+- [✓] Port 22 is open (SSH)
+-[✓] Port 80 is open (HTTP)
+- [✓] Port 443 is open (HTTPS)
+- Scan complete.
 
 ---
 
